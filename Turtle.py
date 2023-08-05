@@ -1,5 +1,5 @@
 import turtle
-turtle.bgcolor("black")
+turtle.bgcolor("red")
 squary=turtle.Turtle()
 squary.speed(20)
 squary.pencolor("red")
